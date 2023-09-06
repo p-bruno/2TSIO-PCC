@@ -1,12 +1,9 @@
-# Sommaire
+<!-- <a href="">libelé</a> -->
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin:auto;">
-<tr>
-    <td colspan=6 style="text-align: center;">
-      <a title="Découverte du réseau" href="./Introduction%20au%20reseau"><img src='./assets/decouverte-du-reseau-icon.svg' width="128px"/><br/>Introduction au réseau</a>
-    </td>
-</tr>
-</table>
+# Seance 1 - Introduction
+<a href="https://docs.google.com/presentation/d/1VTVKDjwbeqZ6ymupW_82K3GRda_qJ0CVQbupESJMeOI/edit?usp=sharing&resourcekey=0-7Sgppc2C7oeWjRsCK_o5TQ">Slides</a>
+
+<a href="https://docs.google.com/document/d/1zhNQDkc6xuIkNp3eWFvcW96ScFldc0uPf8tb3Wk6PUc/edit?usp=sharing">Cours</a>
 
 # License
 Tous les documents disponibles sur cette page sont sous licence [Creative Commons (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).	<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
