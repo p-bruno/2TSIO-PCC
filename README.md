@@ -1,5 +1,7 @@
 <!-- <a href="">libelé</a> -->
 
+ <a href="https://docs.google.com/document/d/1vZjPoJlqPLt8DP8rzu4lQ42VkT_XORE1QwYlQAnN6mg/edit?usp=sharing">suivi-etudiants</a>
+ 
 # Seance 1 - Introduction
 <a href="https://docs.google.com/presentation/d/1VTVKDjwbeqZ6ymupW_82K3GRda_qJ0CVQbupESJMeOI/edit?usp=sharing&resourcekey=0-7Sgppc2C7oeWjRsCK_o5TQ">Slides</a>
 
